@@ -1,0 +1,6 @@
+As a customer, I should be able to enter date, source and destination to search flight as per my choice
+
+As a customer, I should get the details of all the flights available given the input so that I can take flight of my choice
+
+As a customer, I should be 1
+d get a message that my flight has been booked so that I can be confirmed of my booking
